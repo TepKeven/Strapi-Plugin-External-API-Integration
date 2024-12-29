@@ -1,0 +1,5 @@
+{
+  "plugin.name": "Strapi External API Integration",
+  "section.setting": "External API Integration",
+  "setting.api": "API Endpoint Settings2"
+}
