@@ -16,11 +16,11 @@ to be done directly between `Strapi` & the external apis instead of the normal d
 - Bearer Authorization Token
 
 ## Strapi Plugin External APIs Configuration Settings 
-![Screen 3](./screenshots/screen3.png)
+![Screen 3](./screenshots/Screen3.png)
 
 ## Strapi Plugin List & View Page
-![Screen 1](./screenshots/screen1.png)
-![Screen 2](./screenshots/screen2.png)
+![Screen 1](./screenshots/Screen1.png)
+![Screen 2](./screenshots/Screen2.png)
 
 ## Plugin history
 
